@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning on Bina Nusantara University majoring Information System major and focus on Applied Database
+- 🌱 I’m currently learning on Bina Nusantara University majoring Information System and focus on Applied Database
 - 📫 How to reach me: elvin.ri39@gmail.com
 
 
