@@ -30,3 +30,5 @@ Unsurprisingly, this also coincides with my programming language preference too.
 ## Language and Tools
 <code><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/J/javascript-logo-7833D1D21A-seeklogo.com.png"></code>
+
