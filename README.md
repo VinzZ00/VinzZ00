@@ -33,6 +33,6 @@ Unsurprisingly, this also coincides with my programming language preference too.
 <code><img height="20" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png"></code>
 
 ## My Contact
-<a href="www.linkedin.com/in/elvin-sestomi-989212216">
+<a href="https://www.linkedin.com/in/elvin-sestomi-989212216">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
