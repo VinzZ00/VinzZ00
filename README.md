@@ -31,6 +31,7 @@ Unsurprisingly, this also coincides with my programming language preference too.
 <code><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/S/swift-logo-F41F53A22D-seeklogo.com.png"></code>
 
 ## My Contact
 <a href="https://www.linkedin.com/in/elvin-sestomi-989212216">
