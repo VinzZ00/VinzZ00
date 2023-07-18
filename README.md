@@ -29,7 +29,7 @@ Unsurprisingly, this also coincides with my programming language preference too.
 
 <div>
   <code><img height="20" src="https://seeklogo.com/images/S/swift-logo-F41F53A22D-seeklogo.com.png"></code>
-  I Love Swift
+  Swift Developer as well.
 </div>
 
 ## Language and Tools
