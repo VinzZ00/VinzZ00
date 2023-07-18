@@ -24,7 +24,7 @@ Unsurprisingly, this also coincides with my programming language preference too.
 
 <div>
   <code><img height="20" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
-  Java, And always java 😁😁
+  Java, And 
 </div>
 
 <div>
