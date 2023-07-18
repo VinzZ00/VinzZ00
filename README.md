@@ -20,11 +20,16 @@ Here are some ideas to get you started:
 
 ### Programming Languages Stat
 <img align="center" alt="VinzZ00's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinzZ00&layout=compact&theme=radical" />
-Unsurprisingly, this also coincides with my programming language preference too... 
+Unsurprisingly, this also coincides with my programming language preference too...
 
 <div>
   <code><img height="20" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
   Java, And always java 😁😁
+</div>
+
+<div>
+  <code><img height="20" src="https://seeklogo.com/images/S/swift-logo-F41F53A22D-seeklogo.com.png"></code>
+  I Love Swift
 </div>
 
 ## Language and Tools
