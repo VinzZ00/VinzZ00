@@ -8,15 +8,15 @@
 **VinzZ00/VinzZ00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Mobile App Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about IOS
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Like to Code in the midnight
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinzZ00&theme=radical)
+ 
 
 ### Programming Languages Stat
 <img align="center" alt="VinzZ00's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinzZ00&layout=compact&theme=radical" />
